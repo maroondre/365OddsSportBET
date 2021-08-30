@@ -1,0 +1,3 @@
+rootProject.name = "Odds365"
+include ':app'
+include ':yqcdownload'
